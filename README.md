@@ -1,6 +1,6 @@
 # 🏡 Seattle Airbnb – ML-Powered Best Value Finder
 
-A machine learning web application that helps users discover the **best-value Airbnb listings in Seattle** using a hybrid scoring system combining a trained CatBoost model with expert heuristics.
+A ML-powered recommendation system that helps users discover the **best-value Airbnb listings in Seattle** using a hybrid scoring system combining a trained CatBoost model with expert heuristics.
 
 🔗 **Live App:** [seattle-airbnb-ai.streamlit.app](https://seattle-airbnb-ai.streamlit.app)
 
