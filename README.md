@@ -100,8 +100,6 @@ The app uses the **Seattle Airbnb listings dataset** (`listings1.csv`). Key fiel
 - `availability_365`, `minimum_nights`
 - `calculated_host_listings_count`
 
-Price is cleaned (stripped of `$`/`,`), filtered to the `$30–$1500` range, and capped at the 99th percentile.
-
 ---
 
 ## Project Structure
